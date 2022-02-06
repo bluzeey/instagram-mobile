@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "instagram-mobile",
+    "slug": "instagram-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "instagram-mobile"
+}
